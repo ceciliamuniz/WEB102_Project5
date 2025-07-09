@@ -45,7 +45,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://github.com/ceciliamuniz/WEB102_Project3/blob/1a76a46c3a0c1b8c8eb085ac216dac31f6860d8b/src/assets/WEB102_W3_gif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/ceciliamuniz/WEB102_Project5/blob/a4157e7e07acf9b96286affb1f2316220079c040/src/assets/WEB102_W5_gif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 <!-- Replace this with whatever GIF tool you used! -->
